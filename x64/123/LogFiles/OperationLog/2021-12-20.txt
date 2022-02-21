@@ -1,0 +1,28 @@
+[OperationInfo]
+INFO_1=2021-12-20 16:7:0 into Alert Interface
+INFO_2=2021-12-20 16:7:20 into IOCard Interface
+INFO_3=2021-12-20 16:7:22 into Alert Interface
+INFO_4=2021-12-20 16:7:49 into Alert Interface
+INFO_5=2021-12-20 16:8:32 into Alert Interface
+INFO_6=2021-12-20 16:10:20 into Mode Interface
+INFO_7=2021-12-20 16:10:21 into Alert Interface
+INFO_8=2021-12-20 16:11:20 into Alert Interface
+INFO_9=2021-12-20 16:14:41 into Alert Interface
+INFO_10=2021-12-20 16:17:15 into Alert Interface
+INFO_11=2021-12-20 16:18:14 into Alert Interface
+INFO_12=2021-12-20 16:20:10 into Alert Interface
+INFO_13=2021-12-20 16:20:56 into Mode Interface
+INFO_14=2021-12-20 16:20:57 into Alert Interface
+INFO_15=2021-12-20 16:21:46 into Alert Interface
+INFO_16=2021-12-20 16:58:55 into Mode Interface
+INFO_17=2021-12-20 16:58:56 into Alert Interface
+INFO_18=2021-12-20 16:58:57 into Mode Interface
+INFO_19=2021-12-20 17:34:56 into Mode Interface
+INFO_20=2021-12-20 17:35:21 into Mode Interface
+INFO_21=2021-12-20 17:38:29 into Mode Interface
+INFO_22=2021-12-20 17:39:15 into Mode Interface
+INFO_23=2021-12-20 17:47:20 into Mode Interface
+INFO_24=2021-12-20 17:48:51 into Mode Interface
+
+[setup]
+total=24

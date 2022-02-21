@@ -1,0 +1,12 @@
+[OperationInfo]
+INFO_1=2021-11-23 10:10:50 into Alert Interface
+INFO_2=2021-11-23 10:10:57 into Clamping Interface
+INFO_3=2021-11-23 10:11:1 into Count Interface
+INFO_4=2021-11-23 10:17:44 into Front Interface
+INFO_5=2021-11-23 10:24:18 into Front Interface
+INFO_6=2021-11-23 10:26:52 into Front Interface
+INFO_7=2021-11-23 10:35:34 into Front Interface
+INFO_8=2021-11-23 10:58:5 into Front Interface
+
+[setup]
+total=8

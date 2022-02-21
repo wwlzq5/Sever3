@@ -1,0 +1,5 @@
+[OperationInfo]
+INFO_1=2022-2-11 9:8:8 into IOCard Interface
+
+[setup]
+total=1

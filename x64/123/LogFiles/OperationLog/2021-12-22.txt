@@ -1,0 +1,21 @@
+[OperationInfo]
+INFO_1=2021-12-22 10:22:14 into Clamping Interface 3
+INFO_2=2021-12-22 10:22:18 into lock Interface
+INFO_3=2021-12-22 10:22:28 into Clamping Interface 3
+INFO_4=2021-12-22 11:4:32 into Clamping Interface 3
+INFO_5=2021-12-22 11:4:35 into lock Interface
+INFO_6=2021-12-22 11:4:37 into Clamping Interface 3
+INFO_7=2021-12-22 11:15:2 1-lost connect 15--9!
+INFO_8=2021-12-22 11:15:32 into Clamping Interface 3
+INFO_9=2021-12-22 11:16:15 into Clamping Interface 3
+INFO_10=2021-12-22 11:16:24 into Clamping Interface 3
+INFO_11=2021-12-22 11:16:30 into lock Interface
+INFO_12=2021-12-22 11:16:34 into Clamping Interface 2
+INFO_13=2021-12-22 11:16:43 into Clamping Interface 3
+INFO_14=2021-12-22 11:16:49 into Clamping Interface 2
+INFO_15=2021-12-22 11:16:54 into lock Interface
+INFO_16=2021-12-22 11:16:58 into Clamping Interface 3
+INFO_17=2021-12-22 11:23:2 1-lost connect 23--17!
+
+[setup]
+total=17

@@ -1,0 +1,23 @@
+[CheckInfo]
+INFO_1=2021-12-22 10:22:11 into onlyshow
+INFO_2=2021-12-22 10:22:16 into onlyshow
+INFO_3=2021-12-22 10:24:6 ClosingState
+INFO_4=2021-12-22 10:24:6 UnconnectedState
+INFO_5=2021-12-22 11:4:30 into onlyshow
+INFO_6=2021-12-22 11:4:33 into onlyshow
+INFO_7=2021-12-22 11:9:48 ClosingState
+INFO_8=2021-12-22 11:9:48 UnconnectedState
+INFO_9=2021-12-22 11:14:22 into onlyshow
+INFO_10=2021-12-22 11:15:39 ClosingState
+INFO_11=2021-12-22 11:15:39 UnconnectedState
+INFO_12=2021-12-22 11:16:13 into onlyshow
+INFO_13=2021-12-22 11:16:22 into onlyshow
+INFO_14=2021-12-22 11:16:29 into onlyshow
+INFO_15=2021-12-22 11:16:39 into onlyshow
+INFO_16=2021-12-22 11:16:47 into onlyshow
+INFO_17=2021-12-22 11:16:53 into onlyshow
+INFO_18=2021-12-22 11:17:16 ClosingState
+INFO_19=2021-12-22 11:17:16 UnconnectedState
+
+[setup]
+total=19

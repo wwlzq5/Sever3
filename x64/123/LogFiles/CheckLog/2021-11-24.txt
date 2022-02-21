@@ -1,0 +1,8 @@
+[CheckInfo]
+INFO_1=2021-11-24 9:53:51 ClosingState
+INFO_2=2021-11-24 9:53:51 UnconnectedState
+INFO_3=2021-11-24 13:42:36 ClosingState
+INFO_4=2021-11-24 13:42:36 UnconnectedState
+
+[setup]
+total=4

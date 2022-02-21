@@ -1,0 +1,10 @@
+[OperationInfo]
+INFO_1=2021-9-18 14:57:13 into IOCard Interface
+INFO_2=2021-9-18 17:17:42 into Front Interface
+INFO_3=2021-9-18 17:19:57 into Front Interface
+INFO_4=2021-9-18 17:28:7 into Backing Interface
+INFO_5=2021-9-18 17:28:25 into Front Interface
+INFO_6=2021-9-18 17:28:34 into Clamping Interface
+
+[setup]
+total=6

@@ -1,0 +1,8 @@
+[OperationInfo]
+INFO_1=2021-11-3 9:55:53 into Clear Interface
+INFO_2=2021-11-3 9:56:44 into Clear Interface
+INFO_3=2021-11-3 9:57:40 into Clear Interface
+INFO_4=2021-11-3 10:1:42 into Clear Interface
+
+[setup]
+total=4
