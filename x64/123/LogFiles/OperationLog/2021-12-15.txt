@@ -1,5 +1,0 @@
-[OperationInfo]
-INFO_1=2021-12-15 15:21:30 into Clear Interface
-
-[setup]
-total=1

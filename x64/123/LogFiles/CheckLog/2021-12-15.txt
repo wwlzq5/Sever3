@@ -1,6 +1,0 @@
-[CheckInfo]
-INFO_1=2021-12-15 15:21:34 ClosingState
-INFO_2=2021-12-15 15:21:34 UnconnectedState
-
-[setup]
-total=2

@@ -1,5 +1,0 @@
-[OperationInfo]
-INFO_1=2021-10-19 15:54:27 into Mode Interface
-
-[setup]
-total=1
